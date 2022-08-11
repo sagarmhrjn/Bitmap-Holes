@@ -11,9 +11,9 @@ For example: if **strArr** is ["10111", "10101", "11101", "11111"], then this lo
 like the following matrix:
 
 
-1  **0**  1  1  1
-1  **0**  1  **0**  1
-1  1  1  **0**  1
+1  **0**  1  1  1 <br>
+1  **0**  1  **0**  1 <br>
+1  1  1  **0**  1 <br>
 1  1  1  1  1
 <br>
 
