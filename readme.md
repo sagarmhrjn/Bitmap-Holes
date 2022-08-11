@@ -26,3 +26,22 @@ contiguous regions of 0's, which create "holes in the matrix. You can assume the
 
 
 This program is documented by using [JsDoc](https://jsdoc.app/).
+
+# Usage
+
+1. Clone the repo
+   ```sh
+    git@github.com:sagarmhrjn/Bitmap-Holes.git
+   ```
+2. Install NPM packages 
+   ```sh
+   npm install
+   ```
+3. Test the program
+   ```sh
+   npm run start
+   ```
+2. To generate a document for the application 
+   ```sh
+   npm run doc
+   ```
