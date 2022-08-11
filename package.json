@@ -1,0 +1,15 @@
+{
+  "name": "bitmap-holes",
+  "version": "1.0.0",
+  "description": "bitmap-holes",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ./src/index.js",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "Sagar Maharjan",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  }
+}
